@@ -1,1 +1,13 @@
 /* alt box model */
+
+div {
+  background-color: purple;
+  margin: 30px;
+  width: 200px;
+  height: 200px;
+  border: 5px solid cyan;
+  padding: 10px;
+}
+#alternate {
+  box-sizing: border-box;
+}

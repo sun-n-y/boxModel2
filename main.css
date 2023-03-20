@@ -1,1 +1,22 @@
 /* neagtive and auto margin */
+
+h1,
+h2 {
+  text-transform: capitalize;
+}
+
+h1 {
+  margin: -20px;
+}
+#container {
+  border: 1px solid rebeccapurple;
+  background-color: lightblue;
+  height: 400px;
+  width: 600px;
+}
+#container h3 {
+  border: 1px dashed gold;
+  width: 150px;
+  text-align: center;
+  margin: 0 auto;
+}

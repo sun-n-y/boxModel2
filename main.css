@@ -1,1 +1,17 @@
 /* content box demensions */
+
+h1 {
+  border: 2px solid olivedrab;
+  width: 500px;
+  height: 60px;
+}
+#container {
+  width: 400px;
+  height: 400px;
+  border: 1px solid black;
+}
+.box {
+  border: 1px solid orange;
+  height: 50%;
+  width: 50%;
+}

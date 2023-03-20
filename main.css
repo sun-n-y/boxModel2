@@ -1,1 +1,11 @@
 /* border */
+
+h1 {
+  border-top: 20px groove red;
+  border-right: 20px dotted greenyellow;
+  border-bottom: 20px dashed blue;
+  border-left: 20px solid orange;
+}
+h2 {
+  border: 100px solid fuchsia;
+}

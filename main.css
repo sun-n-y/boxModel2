@@ -1,1 +1,10 @@
-/*  */
+/* max min width */
+
+.box {
+  width: 60%;
+  min-width: 300px;
+  max-width: 600px;
+  height: 200px;
+  background-color: lime;
+  margin: 0 auto;
+}
